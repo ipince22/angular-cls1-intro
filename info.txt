@@ -1,0 +1,62 @@
+Comandos vistos en clase
+----------------------------------------
+npm i npm -g
+node -v
+node --version
+npm install -g @angular/cli
+npm i typescript -g
+npm home <package name>
+$ npm i -g npm         ---lo instala global
+$ npm i --save lodash  ---lo instala solo en el proyecto
+============================================================
+Requerimientos
+-------------------------------------------------------------
+Herramientas esenciales para trabajar con Angular
+VScode/Sublime/Atom/Webstorm
+Git
+GitHub
+Node
+NPM
+Angular CLI - https://cli.angular.io/
+Typescript - https://www.typescriptlang.org/
+Prettier - https://prettier.io/                --formato codigo
+npm install --save-dev --save-exact prettier
+
+Eslint - https://eslint.org/
+npm install eslint --save-dev
+
+Quokka - https://quokkajs.com/                --instale desde Visual code ver valores datos sin compilae
+Wallaby - https://wallabyjs.com/
+Browser - Chrome/Firefox/brave*/Edge
+==========================================================================
+Links vistos en clase
+-----------------------------
+https://commitizen-tools.github.io/commitizen/
+https://blog.nrwl.io/understanding-angular-ivy-incremental-dom-and-virtual-dom-243be844bf36
+https://www.youtube.com/watch?v=nX-xshA_0m8        (Cornell Notes)
+https://www.notion.so/
+https://chocolatey.org/
+https://brew.sh/
+https://github.com/yacafx
+https://www.amazon.com/Making-Work-Visible-Exposing-Optimize/dp/1942788150
+https://cli.angular.io/
+https://gunnar.com/product-category/computer-eyewear/
+https://iterm2.com/
+https://fishshell.com/
+https://github.com/oh-my-fish/oh-my-fish
+https://github.com/oh-my-fish/theme-bobthefish
+https://github.com/nvm-sh/nvm              --node version manager administrar versiones NODE
+https://github.com/sindresorhus/fkill-cli  --similar admin tareas
+https://nodemon.io/                 --para ejecutar codigo
+https://www.kite.com/javascript/    --IA para automatizar codigo
+https://lodash.com/                 --typescript
+https://www.markdownguide.org/
+https://macdown.uranusjr.com/
+https://github.com/commitizen/cz-cli  --standar para commit
+http://gitignore.io/                  --ignore
+https://www.git-tower.com/mac         --ignore 
+https://marketplace.visualstudio.com/items?itemName=yacafx.theme-totem
+https://deno.land/                   --similar npm no es estable
+https://v8.dev/                      --v8 engine Js lo nuevo de javascript
+https://www.chromium.org/blink       --principios navegadores motor
+https://www.typescriptlang.org/play
